@@ -6,7 +6,7 @@
 
 ### Diagrama de Classes
 
-![GitHub Diagrama de Classes](https://github.com/marcelossp01/Projeto-Integrador/blob/main/Diagrama%20de%20casos.png)
+![GitHub Diagrama de Classes](https://github.com/marcelossp01/Projeto-Integrador/blob/main/Diagrama%20de%20Classes.png)
 
 ### Telas de Prototipagem
 1. Tela Inicial
